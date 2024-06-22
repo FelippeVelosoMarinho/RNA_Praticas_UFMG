@@ -1,0 +1,8 @@
+---
+title: "RBF Network Breast Cancer Classification"
+author: "Felippe Veloso Marinho"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
